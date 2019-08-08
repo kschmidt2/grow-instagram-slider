@@ -23,11 +23,12 @@ $breakpoint-lg: 717px;
 $font-stack: 'Avenir', 'Avenir Next', 'Arial', sans-serif;
 $cursive-stack: 'Shadows Into Light Two', cursive;
 
-
+.slider-container {
+  max-width: 540px;
+}
 
 .tns-controls {
   text-align: right;
-  max-width: 540px;
   button {
     height: 40px;
     width: 50px;
