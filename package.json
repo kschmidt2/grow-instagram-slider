@@ -30,7 +30,8 @@
     "gulp-rename": "^1.4.0",
     "gulp-sass": "^4.0.2",
     "highcharts": "^7.1.2",
-    "requirejs": "^2.3.6"
+    "requirejs": "^2.3.6",
+    "tiny-slider": "^2.9.2"
   },
   "devDependencies": {
     "@babel/core": "^7.4.5",
